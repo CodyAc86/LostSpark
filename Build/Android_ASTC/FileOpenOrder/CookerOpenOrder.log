@@ -489,12 +489,12 @@
 "../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AnisotropicVDF.uexp" 488
 "../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AbsorptionVDF.uasset" 489
 "../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AbsorptionVDF.uexp" 490
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 491
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 492
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 493
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 494
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 495
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 496
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 491
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 492
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 493
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 494
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 495
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 496
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 497
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 498
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 499
@@ -602,23 +602,23 @@
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 601
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 602
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 603
-"../../../Engine/Content/EngineMaterials/Substrate/Glints2/AGlintTex2dArray2.uasset" 604
-"../../../Engine/Content/EngineMaterials/Substrate/Glints2/AGlintTex2dArray2.uexp" 605
-"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 606
-"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 607
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 608
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 609
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 610
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 611
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 612
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 613
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 614
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 615
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 616
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 617
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 618
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 619
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 620
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 604
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 605
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 606
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 610
+"../../../Engine/Content/EngineMaterials/Substrate/Glints2/AGlintTex2dArray2.uasset" 611
+"../../../Engine/Content/EngineMaterials/Substrate/Glints2/AGlintTex2dArray2.uexp" 612
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 613
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 614
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 615
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 616
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 617
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 618
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 619
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 620
 "../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 621
 "../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 622
 "../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 623
@@ -819,688 +819,720 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 818
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 819
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 820
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 821
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uexp" 822
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.ubulk" 823
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 824
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uexp" 825
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 826
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uexp" 827
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.ubulk" 828
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 829
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uexp" 830
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 831
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 832
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 833
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uexp" 834
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.ubulk" 835
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 836
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uexp" 837
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.ubulk" 838
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 839
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uexp" 840
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.ubulk" 841
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 842
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 843
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.ubulk" 844
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 845
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uexp" 846
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.ubulk" 847
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 848
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uexp" 849
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.ubulk" 850
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 851
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uexp" 852
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.ubulk" 853
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 854
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uexp" 855
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.ubulk" 856
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 857
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uexp" 858
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 859
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 860
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 861
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.ubulk" 862
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 863
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uexp" 864
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.ubulk" 865
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 866
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 867
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.ubulk" 868
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 869
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uexp" 870
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.ubulk" 871
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 872
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uexp" 873
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.ubulk" 874
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 875
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uexp" 876
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.ubulk" 877
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 878
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uexp" 879
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth.uasset" 880
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth.uexp" 881
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth.uasset" 882
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth.uexp" 883
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth_PositionOnly.uasset" 884
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth_PositionOnly.uexp" 885
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_ComputeNormalsTangents.uasset" 886
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_ComputeNormalsTangents.uexp" 887
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals.uasset" 888
-"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals.uexp" 889
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth.uasset" 821
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth.uexp" 822
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth.uasset" 823
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth.uexp" 824
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth_PositionOnly.uasset" 825
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth_PositionOnly.uexp" 826
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_ComputeNormalsTangents.uasset" 827
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_ComputeNormalsTangents.uexp" 828
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals.uasset" 829
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals.uexp" 830
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 831
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uexp" 832
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.ubulk" 833
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 834
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uexp" 835
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 836
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uexp" 837
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.ubulk" 838
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 839
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uexp" 840
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 841
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 842
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 843
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uexp" 844
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.ubulk" 845
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 846
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uexp" 847
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.ubulk" 848
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 849
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uexp" 850
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.ubulk" 851
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 852
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 853
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.ubulk" 854
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 855
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uexp" 856
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.ubulk" 857
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 858
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uexp" 859
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.ubulk" 860
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 861
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uexp" 862
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.ubulk" 863
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 864
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uexp" 865
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.ubulk" 866
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 867
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uexp" 868
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 869
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 870
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 871
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.ubulk" 872
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 873
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uexp" 874
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.ubulk" 875
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 876
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 877
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.ubulk" 878
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 879
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uexp" 880
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.ubulk" 881
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 882
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uexp" 883
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.ubulk" 884
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 885
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uexp" 886
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.ubulk" 887
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 888
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uexp" 889
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 890
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 891
 "../../../Engine/Content/Maps/Entry.uexp" 892
 "../../../Engine/Content/Maps/Entry.umap" 893
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/GameMode/MainMenu.uasset" 894
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/GameMode/MainMenu.uexp" 895
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkMat.uasset" 896
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkMat.uexp" 897
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkMat_Inst.uasset" 898
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkMat_Inst.uexp" 899
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkiesMat_Inst.uasset" 900
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkiesMat_Inst.uexp" 901
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 902
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uexp" 903
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 904
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uexp" 905
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_energy_nose.uasset" 906
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_energy_nose.uexp" 907
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_energy.uasset" 908
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_energy.uexp" 909
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Sparky.uasset" 910
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Sparky.uexp" 911
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_MainMenuTitleParticles.uasset" 912
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_MainMenuTitleParticles.uexp" 913
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_EnemyMat_Inst.uasset" 914
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_EnemyMat_Inst.uexp" 915
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_EnemyParticleMat.uasset" 916
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_EnemyParticleMat.uexp" 917
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Enemy.uasset" 918
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Enemy.uexp" 919
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/MainMenu/BP_MainMenuScene.uasset" 920
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/MainMenu/BP_MainMenuScene.uexp" 921
-"E:/Unreal Projects New/LostSpark/Content/Images/Quit_Game_Pressed.uasset" 922
-"E:/Unreal Projects New/LostSpark/Content/Images/Quit_Game_Pressed.uexp" 923
-"E:/Unreal Projects New/LostSpark/Content/Images/Quit_Game_Button.uasset" 924
-"E:/Unreal Projects New/LostSpark/Content/Images/Quit_Game_Button.uexp" 925
-"E:/Unreal Projects New/LostSpark/Content/Images/Play_Game_Pressed.uasset" 926
-"E:/Unreal Projects New/LostSpark/Content/Images/Play_Game_Pressed.uexp" 927
-"E:/Unreal Projects New/LostSpark/Content/Images/Play_Game_Button.uasset" 928
-"E:/Unreal Projects New/LostSpark/Content/Images/Play_Game_Button.uexp" 929
-"E:/Unreal Projects New/LostSpark/Content/Images/LostSparkTitle.uasset" 930
-"E:/Unreal Projects New/LostSpark/Content/Images/LostSparkTitle.uexp" 931
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_MainMenu.uasset" 932
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_MainMenu.uexp" 933
-"E:/Unreal Projects New/LostSpark/Content/Maps/MainMenu.uexp" 934
-"E:/Unreal Projects New/LostSpark/Content/Maps/MainMenu.umap" 935
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BPI_SideScrolling.uasset" 936
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BPI_SideScrolling.uexp" 937
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_02.ubulk" 938
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_02.uasset" 939
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_02.uexp" 940
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_02_Cue.uasset" 941
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_02_Cue.uexp" 942
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Pickups.uasset" 943
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Pickups.uexp" 944
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Pickup.uasset" 945
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Pickup.uexp" 946
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Pickups/BP_PickUp.uasset" 947
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Pickups/BP_PickUp.uexp" 948
-"E:/Unreal Projects New/LostSpark/Content/Input/Actions/IA_Jump.uasset" 949
-"E:/Unreal Projects New/LostSpark/Content/Input/Actions/IA_Jump.uexp" 950
-"E:/Unreal Projects New/LostSpark/Content/Input/Actions/IA_Move.uasset" 951
-"E:/Unreal Projects New/LostSpark/Content/Input/Actions/IA_Move.uexp" 952
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/Actions/IA_Drop.uasset" 953
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/Actions/IA_Drop.uexp" 954
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/Actions/IA_Interact.uasset" 955
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/Actions/IA_Interact.uexp" 956
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/IMC_SideScroller.uasset" 957
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/IMC_SideScroller.uexp" 958
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_10.ubulk" 959
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_10.uasset" 960
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_10.uexp" 961
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_10_Cue.uasset" 962
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_10_Cue.uexp" 963
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_StopDamage.uasset" 964
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_StopDamage.uexp" 965
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_StopAllMovement.uasset" 966
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_StopAllMovement.uexp" 967
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Audio/SCC_PlayerDamage.uasset" 968
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Audio/SCC_PlayerDamage.uexp" 969
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_EnemyAI.uasset" 970
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_EnemyAI.uexp" 971
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/BP_EnemySpark.uasset" 972
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/BP_EnemySpark.uexp" 973
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/BPI_TouchInterface_SideScrolling.uasset" 974
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/BPI_TouchInterface_SideScrolling.uexp" 975
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset" 976
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uexp" 977
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCameraManager.uasset" 978
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCameraManager.uexp" 979
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingPlayerController.uasset" 980
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingPlayerController.uexp" 981
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_GetData.uasset" 982
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_GetData.uexp" 983
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_08.ubulk" 984
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_08.uasset" 985
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_08.uexp" 986
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_08_Cue.uasset" 987
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_08_Cue.uexp" 988
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Pop_10.ubulk" 989
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Pop_10.uasset" 990
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Pop_10.uexp" 991
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Pop_10_Cue.uasset" 992
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Pop_10_Cue.uexp" 993
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Gong_01.ubulk" 994
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Gong_01.uasset" 995
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Gong_01.uexp" 996
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Gong_01_Cue.uasset" 997
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Gong_01_Cue.uexp" 998
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_RibbonTrail.uasset" 999
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_RibbonTrail.uexp" 1000
-"E:/Unreal Projects New/LostSpark/Content/Images/Start_Next_Level_Pressed.uasset" 1001
-"E:/Unreal Projects New/LostSpark/Content/Images/Start_Next_Level_Pressed.uexp" 1002
-"E:/Unreal Projects New/LostSpark/Content/Images/Start_Next_Level.uasset" 1003
-"E:/Unreal Projects New/LostSpark/Content/Images/Start_Next_Level.uexp" 1004
-"E:/Unreal Projects New/LostSpark/Content/Images/Restart_This_Level_Pressed.uasset" 1005
-"E:/Unreal Projects New/LostSpark/Content/Images/Restart_This_Level_Pressed.uexp" 1006
-"E:/Unreal Projects New/LostSpark/Content/Images/Restart_This_Level.uasset" 1007
-"E:/Unreal Projects New/LostSpark/Content/Images/Restart_This_Level.uexp" 1008
-"E:/Unreal Projects New/LostSpark/Content/Images/LEVEL_COMPLETE_TEXT.uasset" 1009
-"E:/Unreal Projects New/LostSpark/Content/Images/LEVEL_COMPLETE_TEXT.uexp" 1010
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_WinScreen.uasset" 1011
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_WinScreen.uexp" 1012
-"E:/Unreal Projects New/LostSpark/Content/Images/HP_Fill.uasset" 1013
-"E:/Unreal Projects New/LostSpark/Content/Images/HP_Fill.uexp" 1014
-"E:/Unreal Projects New/LostSpark/Content/Images/HP_Background.uasset" 1015
-"E:/Unreal Projects New/LostSpark/Content/Images/HP_Background.uexp" 1016
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_UMG_Calls.uasset" 1017
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_UMG_Calls.uexp" 1018
-"E:/Unreal Projects New/LostSpark/Content/Images/HurtScreenYellow.uasset" 1019
-"E:/Unreal Projects New/LostSpark/Content/Images/HurtScreenYellow.uexp" 1020
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_UI_HUD.uasset" 1021
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_UI_HUD.uexp" 1022
-"E:/Unreal Projects New/LostSpark/Content/Images/RESTART_LEVEL.uasset" 1023
-"E:/Unreal Projects New/LostSpark/Content/Images/RESTART_LEVEL.uexp" 1024
-"E:/Unreal Projects New/LostSpark/Content/Images/QUIT_GAME.uasset" 1025
-"E:/Unreal Projects New/LostSpark/Content/Images/QUIT_GAME.uexp" 1026
-"E:/Unreal Projects New/LostSpark/Content/Images/GAME_OVER.uasset" 1027
-"E:/Unreal Projects New/LostSpark/Content/Images/GAME_OVER.uexp" 1028
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_LoseScreen.uasset" 1029
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_LoseScreen.uexp" 1030
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_EndLevel.uasset" 1031
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_EndLevel.uexp" 1032
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Interact.uasset" 1033
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Interact.uexp" 1034
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_15_Wav.ubulk" 1035
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_15_Wav.uasset" 1036
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_15_Wav.uexp" 1037
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Cues/Glitches/Glitch_15_Cue.uasset" 1038
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Cues/Glitches/Glitch_15_Cue.uexp" 1039
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Pawn/BP_Sparky.uasset" 1040
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Pawn/BP_Sparky.uexp" 1041
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingGameMode.uasset" 1042
-"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingGameMode.uexp" 1043
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Scratches_M.uasset" 1044
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Scratches_M.uexp" 1045
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_N_normals.ubulk" 1046
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_N_normals.uasset" 1047
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_N_normals.uexp" 1048
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_M.ubulk" 1049
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_M.uasset" 1050
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_M.uexp" 1051
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_Diff.ubulk" 1052
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_Diff.uasset" 1053
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_Diff.uexp" 1054
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.ubulk" 1055
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1056
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uexp" 1057
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uasset" 1058
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uexp" 1059
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_N.ubulk" 1060
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_N.uasset" 1061
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_N.uexp" 1062
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_M.uasset" 1063
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_M.uexp" 1064
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LampEmissive.ubulk" 1065
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LampEmissive.uasset" 1066
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LampEmissive.uexp" 1067
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_N_normals.ubulk" 1068
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_N_normals.uasset" 1069
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_N_normals.uexp" 1070
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_M.ubulk" 1071
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_M.uasset" 1072
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_M.uexp" 1073
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_Diff.ubulk" 1074
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_Diff.uasset" 1075
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_Diff.uexp" 1076
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Base_3C.uasset" 1077
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Base_3C.uexp" 1078
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Base_Dark.uasset" 1079
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Base_Dark.uexp" 1080
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Base_Light.uasset" 1081
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Base_Light.uexp" 1082
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_A.ubulk" 1083
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_A.uasset" 1084
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_A.uexp" 1085
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_DeathFloor.uasset" 1086
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_DeathFloor.uexp" 1087
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/DamagingActors/BP_DamageFloor.uasset" 1088
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/DamagingActors/BP_DamageFloor.uexp" 1089
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_PointLight.uasset" 1090
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_PointLight.uexp" 1091
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_N_normals.ubulk" 1092
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_N_normals.uasset" 1093
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_N_normals.uexp" 1094
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_M.ubulk" 1095
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_M.uasset" 1096
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_M.uexp" 1097
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_Diff.ubulk" 1098
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_Diff.uasset" 1099
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_Diff.uexp" 1100
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Scratches_M.uasset" 1101
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Scratches_M.uexp" 1102
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Brushed_N.ubulk" 1103
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Brushed_N.uasset" 1104
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Brushed_N.uexp" 1105
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_DefaultLight_S.uasset" 1106
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_DefaultLight_S.uexp" 1107
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_N_normals.ubulk" 1108
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_N_normals.uasset" 1109
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_N_normals.uexp" 1110
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_M.ubulk" 1111
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_M.uasset" 1112
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_M.uexp" 1113
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_Diff.ubulk" 1114
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_Diff.uasset" 1115
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_Diff.uexp" 1116
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_Base_2C.uasset" 1117
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_Base_2C.uexp" 1118
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Hall_Wall_A_M.uasset" 1119
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Hall_Wall_A_M.uexp" 1120
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_A.ubulk" 1121
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_A.uasset" 1122
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_A.uexp" 1123
-"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Wave/44-1/Latches_Mechanical_Lock_Unlock_SFX__270_.ubulk" 1124
-"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Wave/44-1/Latches_Mechanical_Lock_Unlock_SFX__270_.uasset" 1125
-"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Wave/44-1/Latches_Mechanical_Lock_Unlock_SFX__270_.uexp" 1126
-"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Cue/44-1/Latches_Mechanical_Lock_Unlock_SFX__270__Cue.uasset" 1127
-"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Cue/44-1/Latches_Mechanical_Lock_Unlock_SFX__270__Cue.uexp" 1128
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_SecretWall.uasset" 1129
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_SecretWall.uexp" 1130
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_N_normals.ubulk" 1131
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_N_normals.uasset" 1132
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_N_normals.uexp" 1133
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_M.ubulk" 1134
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_M.uasset" 1135
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_M.uexp" 1136
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_Diff.ubulk" 1137
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_Diff.uasset" 1138
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_Diff.uexp" 1139
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Pipes_ADark_M.uasset" 1140
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Pipes_ADark_M.uexp" 1141
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_EM.ubulk" 1142
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_EM.uasset" 1143
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_EM.uexp" 1144
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_EnergyEmissive.uasset" 1145
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_EnergyEmissive.uexp" 1146
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyEmissive_A.uasset" 1147
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyEmissive_A.uexp" 1148
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_N_normals.uasset" 1149
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_N_normals.uexp" 1150
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_M.uasset" 1151
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_M.uexp" 1152
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_Diff.uasset" 1153
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_Diff.uexp" 1154
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyCore_A_M.uasset" 1155
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyCore_A_M.uexp" 1156
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.ubulk" 1157
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.uasset" 1158
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.uexp" 1159
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_04.ubulk" 1160
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_04.uasset" 1161
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_04.uexp" 1162
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_04_Cue.uasset" 1163
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_04_Cue.uexp" 1164
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_InteractParticles.uasset" 1165
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_InteractParticles.uexp" 1166
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_HighlightMat.uasset" 1167
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_HighlightMat.uexp" 1168
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_HighlightMat_Inst.uasset" 1169
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_HighlightMat_Inst.uexp" 1170
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyEmissive_B.uasset" 1171
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyEmissive_B.uexp" 1172
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_PowerCore.uasset" 1173
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_PowerCore.uexp" 1174
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LoginScreen_EM.ubulk" 1175
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LoginScreen_EM.uasset" 1176
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LoginScreen_EM.uexp" 1177
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Screen_Parent.uasset" 1178
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Screen_Parent.uexp" 1179
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Screen_Lapt_Off.uasset" 1180
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Screen_Lapt_Off.uexp" 1181
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Keyboard_UI_EM.ubulk" 1182
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Keyboard_UI_EM.uasset" 1183
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Keyboard_UI_EM.uexp" 1184
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Keyboard_Scre.uasset" 1185
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Keyboard_Scre.uexp" 1186
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_N_normals.ubulk" 1187
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_N_normals.uasset" 1188
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_N_normals.uexp" 1189
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_M.ubulk" 1190
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_M.uasset" 1191
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_M.uexp" 1192
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_Diff.ubulk" 1193
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_Diff.uasset" 1194
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_Diff.uexp" 1195
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Laptop_Keyb.uasset" 1196
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Laptop_Keyb.uexp" 1197
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_N_normals.ubulk" 1198
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_N_normals.uasset" 1199
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_N_normals.uexp" 1200
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_M.ubulk" 1201
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_M.uasset" 1202
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_M.uexp" 1203
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_Diff.ubulk" 1204
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_Diff.uasset" 1205
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_Diff.uexp" 1206
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Laptop_Scre.uasset" 1207
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Laptop_Scre.uexp" 1208
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Laptop.ubulk" 1209
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Laptop.uasset" 1210
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Laptop.uexp" 1211
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_03.ubulk" 1212
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_03.uasset" 1213
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_03.uexp" 1214
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_03_Cue.uasset" 1215
-"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_03_Cue.uexp" 1216
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_N_normals.ubulk" 1217
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_N_normals.uasset" 1218
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_N_normals.uexp" 1219
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_M.ubulk" 1220
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_M.uasset" 1221
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_M.uexp" 1222
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_Diff.ubulk" 1223
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_Diff.uasset" 1224
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_Diff.uexp" 1225
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Trims_A_M.uasset" 1226
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Trims_A_M.uexp" 1227
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_CustomerMessage.ubulk" 1228
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_CustomerMessage.uasset" 1229
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_CustomerMessage.uexp" 1230
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_CustomerMessage.uasset" 1231
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_CustomerMessage.uexp" 1232
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_CustomerMessage.ubulk" 1233
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_CustomerMessage.uasset" 1234
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_CustomerMessage.uexp" 1235
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_14_Wav.ubulk" 1236
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_14_Wav.uasset" 1237
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_14_Wav.uexp" 1238
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Cues/Glitches/Glitch_14_Cue.uasset" 1239
-"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Cues/Glitches/Glitch_14_Cue.uexp" 1240
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_Console.uasset" 1241
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_Console.uexp" 1242
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Platform_Large.uasset" 1243
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Platform_Large.uexp" 1244
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_N_normals.ubulk" 1245
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_N_normals.uasset" 1246
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_N_normals.uexp" 1247
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M_B.ubulk" 1248
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M_B.uasset" 1249
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M_B.uexp" 1250
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff_B.ubulk" 1251
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff_B.uasset" 1252
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff_B.uexp" 1253
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Scratches_M.uasset" 1254
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Scratches_M.uexp" 1255
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Brushed_N.ubulk" 1256
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Brushed_N.uasset" 1257
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Brushed_N.uexp" 1258
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_N_normals.ubulk" 1259
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_N_normals.uasset" 1260
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_N_normals.uexp" 1261
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_M.ubulk" 1262
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_M.uasset" 1263
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_M.uexp" 1264
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_Diff.ubulk" 1265
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_Diff.uasset" 1266
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_Diff.uexp" 1267
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_DefaultLight_S.uasset" 1268
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_DefaultLight_S.uexp" 1269
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/M_Base_2C.uasset" 1270
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/M_Base_2C.uexp" 1271
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Trims_B_2.uasset" 1272
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Trims_B_2.uexp" 1273
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_N_normals.ubulk" 1274
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_N_normals.uasset" 1275
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_N_normals.uexp" 1276
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_M.ubulk" 1277
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_M.uasset" 1278
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_M.uexp" 1279
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_Diff.ubulk" 1280
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_Diff.uasset" 1281
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_Diff.uexp" 1282
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Pipes_A.uasset" 1283
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Pipes_A.uexp" 1284
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Div_B.ubulk" 1285
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Div_B.uasset" 1286
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Div_B.uexp" 1287
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 1288
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 1289
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_LightningBeam.uasset" 1290
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_LightningBeam.uexp" 1291
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Electrified.uasset" 1292
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Electrified.uexp" 1293
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/electric-90746.ubulk" 1294
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/electric-90746.uasset" 1295
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/electric-90746.uexp" 1296
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/SC_ElectricForcefield.uasset" 1297
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/SC_ElectricForcefield.uexp" 1298
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/DamagingActors/BP_ForceField.uasset" 1299
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/DamagingActors/BP_ForceField.uexp" 1300
-"E:/Unreal Projects New/LostSpark/Content/Images/Jump_Button.uasset" 1301
-"E:/Unreal Projects New/LostSpark/Content/Images/Jump_Button.uexp" 1302
-"E:/Unreal Projects New/LostSpark/Content/Images/Joystick_Movement_Button.uasset" 1303
-"E:/Unreal Projects New/LostSpark/Content/Images/Joystick_Movement_Button.uexp" 1304
-"E:/Unreal Projects New/LostSpark/Content/Images/Interact_Button.uasset" 1305
-"E:/Unreal Projects New/LostSpark/Content/Images/Interact_Button.uexp" 1306
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1307
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 1308
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1309
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 1310
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/AI_NavLinkProxy.uasset" 1311
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/AI_NavLinkProxy.uexp" 1312
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_N.ubulk" 1313
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_N.uasset" 1314
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_N.uexp" 1315
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base_Dirt_2.ubulk" 1316
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base_Dirt_2.uasset" 1317
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base_Dirt_2.uexp" 1318
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_EdgeMask.ubulk" 1319
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_EdgeMask.uasset" 1320
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_EdgeMask.uexp" 1321
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_C_diffuse.ubulk" 1322
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_C_diffuse.uasset" 1323
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_C_diffuse.uexp" 1324
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_C_normals.ubulk" 1325
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_C_normals.uasset" 1326
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_C_normals.uexp" 1327
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_M.uasset" 1328
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_M.uexp" 1329
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base.ubulk" 1330
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base.uasset" 1331
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base.uexp" 1332
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_Trim.uasset" 1333
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_Trim.uexp" 1334
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_FloorBlack.uasset" 1335
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_FloorBlack.uexp" 1336
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Scratches_M.uasset" 1337
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Scratches_M.uexp" 1338
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Hexagon.ubulk" 1339
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Hexagon.uasset" 1340
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Hexagon.uexp" 1341
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_SolidColor_Base.uasset" 1342
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_SolidColor_Base.uexp" 1343
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Solid_Black.uasset" 1344
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Solid_Black.uexp" 1345
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Red.uasset" 1346
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Red.uexp" 1347
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Gray.uasset" 1348
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Gray.uexp" 1349
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.ubulk" 1350
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.uasset" 1351
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.uexp" 1352
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Start_Pad.uasset" 1353
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Start_Pad.uexp" 1354
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Yellow.uasset" 1355
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Yellow.uexp" 1356
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_Elevators.uasset" 1357
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_Elevators.uexp" 1358
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.ubulk" 1359
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.uasset" 1360
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.uexp" 1361
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_ML.ubulk" 1362
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_ML.uasset" 1363
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_ML.uexp" 1364
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.ubulk" 1365
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.uasset" 1366
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.uexp" 1367
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_M.ubulk" 1368
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_M.uasset" 1369
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_M.uexp" 1370
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_3C.uasset" 1371
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_3C.uexp" 1372
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_A_Black.uasset" 1373
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_A_Black.uexp" 1374
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_A_Gray.uasset" 1375
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_A_Gray.uexp" 1376
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_SolidLight.uasset" 1377
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_SolidLight.uexp" 1378
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Light_White.uasset" 1379
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Light_White.uexp" 1380
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Light_B.ubulk" 1381
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Light_B.uasset" 1382
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Light_B.uexp" 1383
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_C.ubulk" 1384
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_C.uasset" 1385
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_C.uexp" 1386
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Floor_Small.uasset" 1387
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Floor_Small.uexp" 1388
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M.ubulk" 1389
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M.uasset" 1390
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M.uexp" 1391
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff.ubulk" 1392
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff.uasset" 1393
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff.uexp" 1394
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Trims_B.uasset" 1395
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Trims_B.uexp" 1396
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Pipes_A_Dark.uasset" 1397
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Pipes_A_Dark.uexp" 1398
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_N_normals.ubulk" 1399
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_N_normals.uasset" 1400
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_N_normals.uexp" 1401
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_M.ubulk" 1402
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_M.uasset" 1403
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_M.uexp" 1404
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_Diff.ubulk" 1405
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_Diff.uasset" 1406
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_Diff.uexp" 1407
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Win_Post_A.uasset" 1408
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Win_Post_A.uexp" 1409
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_N_normals.ubulk" 1410
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_N_normals.uasset" 1411
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_N_normals.uexp" 1412
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_M.ubulk" 1413
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_M.uasset" 1414
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_M.uexp" 1415
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_Diff.ubulk" 1416
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_Diff.uasset" 1417
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_Diff.uexp" 1418
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Win_Post_A2.uasset" 1419
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Win_Post_A2.uexp" 1420
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A.ubulk" 1421
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A.uasset" 1422
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A.uexp" 1423
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A_2.ubulk" 1424
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A_2.uasset" 1425
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A_2.uexp" 1426
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_AltFloor_A.ubulk" 1427
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_AltFloor_A.uasset" 1428
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_AltFloor_A.uexp" 1429
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Wall_Jumper.uasset" 1430
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Wall_Jumper.uexp" 1431
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_glow_2.uasset" 1432
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_glow_2.uexp" 1433
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_light.uasset" 1434
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_light.uexp" 1435
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_ring.uasset" 1436
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_ring.uexp" 1437
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_light_2.uasset" 1438
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_light_2.uexp" 1439
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Niagara/NS_Basic_13.uasset" 1440
-"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Niagara/NS_Basic_13.uexp" 1441
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Finish_Pad.uasset" 1442
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Finish_Pad.uexp" 1443
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Triggers/BP_DeathTriggerBox.uasset" 1444
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Triggers/BP_DeathTriggerBox.uexp" 1445
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Triggers/BP_HiddenTrigger.uasset" 1446
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Triggers/BP_HiddenTrigger.uexp" 1447
-"E:/Unreal Projects New/LostSpark/Content/Maps/LVL2.uexp" 1448
-"E:/Unreal Projects New/LostSpark/Content/Maps/LVL2.umap" 1449
-"E:/Unreal Projects New/LostSpark/Content/Maps/LVL1_Tutorial_BuiltData.uasset" 1450
-"E:/Unreal Projects New/LostSpark/Content/Maps/LVL1_Tutorial_BuiltData.uexp" 1451
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_2.ubulk" 1452
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_2.uasset" 1453
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_2.uexp" 1454
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Reg_Glass.uasset" 1455
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Reg_Glass.uexp" 1456
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Reg_Glass_Dark.uasset" 1457
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Reg_Glass_Dark.uexp" 1458
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_SolidLight_Parent.uasset" 1459
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_SolidLight_Parent.uexp" 1460
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Light_White.uasset" 1461
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Light_White.uexp" 1462
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_N_normals.ubulk" 1463
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_N_normals.uasset" 1464
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_N_normals.uexp" 1465
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_M.ubulk" 1466
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_M.uasset" 1467
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_M.uexp" 1468
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_Diff.ubulk" 1469
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_Diff.uasset" 1470
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_Diff.uexp" 1471
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_CeilingLight.uasset" 1472
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_CeilingLight.uexp" 1473
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_CeilingLight.ubulk" 1474
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_CeilingLight.uasset" 1475
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_CeilingLight.uexp" 1476
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_CeilingLight.uasset" 1477
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_CeilingLight.uexp" 1478
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_N_normals.ubulk" 1479
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_N_normals.uasset" 1480
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_N_normals.uexp" 1481
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_M.ubulk" 1482
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_M.uasset" 1483
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_M.uexp" 1484
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_EM.ubulk" 1485
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_EM.uasset" 1486
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_EM.uexp" 1487
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_Diff.ubulk" 1488
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_Diff.uasset" 1489
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_Diff.uexp" 1490
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Hall_Light_Square_M.uasset" 1491
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Hall_Light_Square_M.uexp" 1492
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Light_Square.ubulk" 1493
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Light_Square.uasset" 1494
-"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Light_Square.uexp" 1495
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_Hall_Light_Arrow.uasset" 1496
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_Hall_Light_Arrow.uexp" 1497
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_TutorialText.uasset" 1498
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_TutorialText.uexp" 1499
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/BP_TutorialTexts.uasset" 1500
-"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/BP_TutorialTexts.uexp" 1501
-"E:/Unreal Projects New/LostSpark/Content/Maps/LVL1_Tutorial.uexp" 1502
-"E:/Unreal Projects New/LostSpark/Content/Maps/LVL1_Tutorial.umap" 1503
-"E:/Unreal Projects New/LostSpark/Content/Maps/LVL3.uexp" 1504
-"E:/Unreal Projects New/LostSpark/Content/Maps/LVL3.umap" 1505
+"E:/Unreal Projects New/LostSpark/Content/Saves/SaveLastPlayedLevel.uasset" 894
+"E:/Unreal Projects New/LostSpark/Content/Saves/SaveLastPlayedLevel.uexp" 895
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_GetData.uasset" 896
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_GetData.uexp" 897
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/GameMode/MainMenu.uasset" 898
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/GameMode/MainMenu.uexp" 899
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkMat.uasset" 900
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkMat.uexp" 901
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkMat_Inst.uasset" 902
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkMat_Inst.uexp" 903
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkiesMat_Inst.uasset" 904
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_SparkiesMat_Inst.uexp" 905
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 906
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uexp" 907
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 908
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uexp" 909
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_energy_nose.uasset" 910
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_energy_nose.uexp" 911
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_energy.uasset" 912
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_energy.uexp" 913
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Sparky.uasset" 914
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Sparky.uexp" 915
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_MainMenuTitleParticles.uasset" 916
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_MainMenuTitleParticles.uexp" 917
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_EnemySpark.uasset" 918
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_EnemySpark.uexp" 919
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_EnemySpark_Inst.uasset" 920
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_EnemySpark_Inst.uexp" 921
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Enemy.uasset" 922
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Enemy.uexp" 923
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/MainMenu/BP_MainMenuScene.uasset" 924
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/MainMenu/BP_MainMenuScene.uexp" 925
+"E:/Unreal Projects New/LostSpark/Content/Images/SparksTitle.uasset" 926
+"E:/Unreal Projects New/LostSpark/Content/Images/SparksTitle.uexp" 927
+"E:/Unreal Projects New/LostSpark/Content/Images/Quit_Game_Pressed.uasset" 928
+"E:/Unreal Projects New/LostSpark/Content/Images/Quit_Game_Pressed.uexp" 929
+"E:/Unreal Projects New/LostSpark/Content/Images/Quit_Game_Button.uasset" 930
+"E:/Unreal Projects New/LostSpark/Content/Images/Quit_Game_Button.uexp" 931
+"E:/Unreal Projects New/LostSpark/Content/Images/Play_Game_Pressed.uasset" 932
+"E:/Unreal Projects New/LostSpark/Content/Images/Play_Game_Pressed.uexp" 933
+"E:/Unreal Projects New/LostSpark/Content/Images/Play_Game_Button.uasset" 934
+"E:/Unreal Projects New/LostSpark/Content/Images/Play_Game_Button.uexp" 935
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_MainMenu.uasset" 936
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_MainMenu.uexp" 937
+"E:/Unreal Projects New/LostSpark/Content/Maps/MainMenu.uexp" 938
+"E:/Unreal Projects New/LostSpark/Content/Maps/MainMenu.umap" 939
+"E:/Unreal Projects New/LostSpark/Content/Saves/SaveScore.uasset" 940
+"E:/Unreal Projects New/LostSpark/Content/Saves/SaveScore.uexp" 941
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BPI_SideScrolling.uasset" 942
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BPI_SideScrolling.uexp" 943
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_02.ubulk" 944
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_02.uasset" 945
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_02.uexp" 946
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_02_Cue.uasset" 947
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_02_Cue.uexp" 948
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Pickups.uasset" 949
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Pickups.uexp" 950
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Pickup.uasset" 951
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Pickup.uexp" 952
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Pickups/BP_PickUp.uasset" 953
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Pickups/BP_PickUp.uexp" 954
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_10.ubulk" 955
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_10.uasset" 956
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_10.uexp" 957
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_10_Cue.uasset" 958
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_10_Cue.uexp" 959
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_StopDamage.uasset" 960
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_StopDamage.uexp" 961
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_StopAllMovement.uasset" 962
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_StopAllMovement.uexp" 963
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_EnemyAI.uasset" 964
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_EnemyAI.uexp" 965
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Audio/SCC_PlayerDamage.uasset" 966
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Audio/SCC_PlayerDamage.uexp" 967
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/BP_EnemySpark.uasset" 968
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/BP_EnemySpark.uexp" 969
+"E:/Unreal Projects New/LostSpark/Content/Input/Actions/IA_Jump.uasset" 970
+"E:/Unreal Projects New/LostSpark/Content/Input/Actions/IA_Jump.uexp" 971
+"E:/Unreal Projects New/LostSpark/Content/Input/Actions/IA_Move.uasset" 972
+"E:/Unreal Projects New/LostSpark/Content/Input/Actions/IA_Move.uexp" 973
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/Actions/IA_Drop.uasset" 974
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/Actions/IA_Drop.uexp" 975
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/Actions/IA_Interact.uasset" 976
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/Actions/IA_Interact.uexp" 977
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/IMC_SideScroller.uasset" 978
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/IMC_SideScroller.uexp" 979
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/BPI_TouchInterface_SideScrolling.uasset" 980
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Input/BPI_TouchInterface_SideScrolling.uexp" 981
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset" 982
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uexp" 983
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCameraManager.uasset" 984
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCameraManager.uexp" 985
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingPlayerController.uasset" 986
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingPlayerController.uexp" 987
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_08.ubulk" 988
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_08.uasset" 989
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_08.uexp" 990
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_08_Cue.uasset" 991
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_08_Cue.uexp" 992
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Pop_10.ubulk" 993
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Pop_10.uasset" 994
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Pop_10.uexp" 995
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Pop_10_Cue.uasset" 996
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Pop_10_Cue.uexp" 997
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Gong_01.ubulk" 998
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Gong_01.uasset" 999
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Gong_01.uexp" 1000
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Gong_01_Cue.uasset" 1001
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Gong_01_Cue.uexp" 1002
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_RibbonTrail.uasset" 1003
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_RibbonTrail.uexp" 1004
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Timer.uasset" 1005
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Timer.uexp" 1006
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_Timer.uasset" 1007
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_Timer.uexp" 1008
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_EndLevel.uasset" 1009
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_EndLevel.uexp" 1010
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Interact.uasset" 1011
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_Interact.uexp" 1012
+"E:/Unreal Projects New/LostSpark/Content/Images/Start_Next_Level_Pressed.uasset" 1013
+"E:/Unreal Projects New/LostSpark/Content/Images/Start_Next_Level_Pressed.uexp" 1014
+"E:/Unreal Projects New/LostSpark/Content/Images/Start_Next_Level.uasset" 1015
+"E:/Unreal Projects New/LostSpark/Content/Images/Start_Next_Level.uexp" 1016
+"E:/Unreal Projects New/LostSpark/Content/Images/Restart_This_Level_Pressed.uasset" 1017
+"E:/Unreal Projects New/LostSpark/Content/Images/Restart_This_Level_Pressed.uexp" 1018
+"E:/Unreal Projects New/LostSpark/Content/Images/Restart_This_Level.uasset" 1019
+"E:/Unreal Projects New/LostSpark/Content/Images/Restart_This_Level.uexp" 1020
+"E:/Unreal Projects New/LostSpark/Content/Images/LEVEL_COMPLETE_TEXT.uasset" 1021
+"E:/Unreal Projects New/LostSpark/Content/Images/LEVEL_COMPLETE_TEXT.uexp" 1022
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_WinScreen.uasset" 1023
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_WinScreen.uexp" 1024
+"E:/Unreal Projects New/LostSpark/Content/Images/HurtScreenYellow.uasset" 1025
+"E:/Unreal Projects New/LostSpark/Content/Images/HurtScreenYellow.uexp" 1026
+"E:/Unreal Projects New/LostSpark/Content/Images/HP_Fill.uasset" 1027
+"E:/Unreal Projects New/LostSpark/Content/Images/HP_Fill.uexp" 1028
+"E:/Unreal Projects New/LostSpark/Content/Images/HP_Background.uasset" 1029
+"E:/Unreal Projects New/LostSpark/Content/Images/HP_Background.uexp" 1030
+"E:/Unreal Projects New/LostSpark/Content/Images/Menu_Button_Pressed.uasset" 1031
+"E:/Unreal Projects New/LostSpark/Content/Images/Menu_Button_Pressed.uexp" 1032
+"E:/Unreal Projects New/LostSpark/Content/Images/Menu_Button.uasset" 1033
+"E:/Unreal Projects New/LostSpark/Content/Images/Menu_Button.uexp" 1034
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_UMG_Calls.uasset" 1035
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interface/BI_UMG_Calls.uexp" 1036
+"E:/Unreal Projects New/LostSpark/Content/Images/Restart_Level_Pressed.uasset" 1037
+"E:/Unreal Projects New/LostSpark/Content/Images/Restart_Level_Pressed.uexp" 1038
+"E:/Unreal Projects New/LostSpark/Content/Images/RESTART_LEVEL.uasset" 1039
+"E:/Unreal Projects New/LostSpark/Content/Images/RESTART_LEVEL.uexp" 1040
+"E:/Unreal Projects New/LostSpark/Content/Images/Main_Menu_Pressed.uasset" 1041
+"E:/Unreal Projects New/LostSpark/Content/Images/Main_Menu_Pressed.uexp" 1042
+"E:/Unreal Projects New/LostSpark/Content/Images/Main_Menu_Button.uasset" 1043
+"E:/Unreal Projects New/LostSpark/Content/Images/Main_Menu_Button.uexp" 1044
+"E:/Unreal Projects New/LostSpark/Content/Images/GAME_PAUSED.uasset" 1045
+"E:/Unreal Projects New/LostSpark/Content/Images/GAME_PAUSED.uexp" 1046
+"E:/Unreal Projects New/LostSpark/Content/Images/Continue_Button_Pressed.uasset" 1047
+"E:/Unreal Projects New/LostSpark/Content/Images/Continue_Button_Pressed.uexp" 1048
+"E:/Unreal Projects New/LostSpark/Content/Images/Continue_Button.uasset" 1049
+"E:/Unreal Projects New/LostSpark/Content/Images/Continue_Button.uexp" 1050
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_PauseScreen.uasset" 1051
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_PauseScreen.uexp" 1052
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_UI_HUD.uasset" 1053
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_UI_HUD.uexp" 1054
+"E:/Unreal Projects New/LostSpark/Content/Images/GAME_OVER.uasset" 1055
+"E:/Unreal Projects New/LostSpark/Content/Images/GAME_OVER.uexp" 1056
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_LoseScreen.uasset" 1057
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_LoseScreen.uexp" 1058
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_15_Wav.ubulk" 1059
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_15_Wav.uasset" 1060
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_15_Wav.uexp" 1061
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Cues/Glitches/Glitch_15_Cue.uasset" 1062
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Cues/Glitches/Glitch_15_Cue.uexp" 1063
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Pawn/BP_Sparky.uasset" 1064
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Pawn/BP_Sparky.uexp" 1065
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingGameMode.uasset" 1066
+"E:/Unreal Projects New/LostSpark/Content/Variant_SideScroller/Blueprints/BP_SideScrollingGameMode.uexp" 1067
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_PointLight.uasset" 1068
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_PointLight.uexp" 1069
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_N_normals.ubulk" 1070
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_N_normals.uasset" 1071
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_N_normals.uexp" 1072
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_M.ubulk" 1073
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_M.uasset" 1074
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_M.uexp" 1075
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_Diff.ubulk" 1076
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_Diff.uasset" 1077
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Pipes_A_Diff.uexp" 1078
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.ubulk" 1079
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1080
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uexp" 1081
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uasset" 1082
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uexp" 1083
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Scratches_M.uasset" 1084
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Scratches_M.uexp" 1085
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Brushed_N.ubulk" 1086
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Brushed_N.uasset" 1087
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Metal_Brushed_N.uexp" 1088
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_DefaultLight_S.uasset" 1089
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_DefaultLight_S.uexp" 1090
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_N_normals.ubulk" 1091
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_N_normals.uasset" 1092
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_N_normals.uexp" 1093
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_M.ubulk" 1094
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_M.uasset" 1095
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_M.uexp" 1096
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_Diff.ubulk" 1097
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_Diff.uasset" 1098
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_Diff.uexp" 1099
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_Base_2C.uasset" 1100
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_Base_2C.uexp" 1101
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Pipes_ADark_M.uasset" 1102
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Pipes_ADark_M.uexp" 1103
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_EM.ubulk" 1104
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_EM.uasset" 1105
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_EM.uexp" 1106
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_EnergyEmissive.uasset" 1107
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_EnergyEmissive.uexp" 1108
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyEmissive_A.uasset" 1109
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyEmissive_A.uexp" 1110
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_N_normals.uasset" 1111
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_N_normals.uexp" 1112
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_M.uasset" 1113
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_M.uexp" 1114
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_Diff.uasset" 1115
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_EnergyCore_A_Diff.uexp" 1116
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyCore_A_M.uasset" 1117
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyCore_A_M.uexp" 1118
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.ubulk" 1119
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.uasset" 1120
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.uexp" 1121
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_04.ubulk" 1122
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_04.uasset" 1123
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Futuristic_Click_04.uexp" 1124
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_04_Cue.uasset" 1125
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Futuristic_Click_04_Cue.uexp" 1126
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_InteractParticles.uasset" 1127
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_InteractParticles.uexp" 1128
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_HighlightMat.uasset" 1129
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_HighlightMat.uexp" 1130
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_HighlightMat_Inst.uasset" 1131
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_HighlightMat_Inst.uexp" 1132
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyEmissive_B.uasset" 1133
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_EnergyEmissive_B.uexp" 1134
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_PowerCore.uasset" 1135
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_PowerCore.uexp" 1136
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_N_normals.ubulk" 1137
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_N_normals.uasset" 1138
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_N_normals.uexp" 1139
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_M.ubulk" 1140
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_M.uasset" 1141
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_M.uexp" 1142
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_Diff.ubulk" 1143
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_Diff.uasset" 1144
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Wall_A_Diff.uexp" 1145
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Hall_Wall_A_M.uasset" 1146
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Hall_Wall_A_M.uexp" 1147
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_A.ubulk" 1148
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_A.uasset" 1149
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_A.uexp" 1150
+"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Wave/44-1/Latches_Mechanical_Lock_Unlock_SFX__270_.ubulk" 1151
+"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Wave/44-1/Latches_Mechanical_Lock_Unlock_SFX__270_.uasset" 1152
+"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Wave/44-1/Latches_Mechanical_Lock_Unlock_SFX__270_.uexp" 1153
+"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Cue/44-1/Latches_Mechanical_Lock_Unlock_SFX__270__Cue.uasset" 1154
+"E:/Unreal Projects New/LostSpark/Content/Latches_Mechanical_Locking_Unlocking_SFX_Pack1/Cue/44-1/Latches_Mechanical_Lock_Unlock_SFX__270__Cue.uexp" 1155
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_SecretWall.uasset" 1156
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_SecretWall.uexp" 1157
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LoginScreen_EM.ubulk" 1158
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LoginScreen_EM.uasset" 1159
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LoginScreen_EM.uexp" 1160
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Screen_Parent.uasset" 1161
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Screen_Parent.uexp" 1162
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Screen_Lapt_Off.uasset" 1163
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Screen_Lapt_Off.uexp" 1164
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Keyboard_UI_EM.ubulk" 1165
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Keyboard_UI_EM.uasset" 1166
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Keyboard_UI_EM.uexp" 1167
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Keyboard_Scre.uasset" 1168
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Keyboard_Scre.uexp" 1169
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_M.uasset" 1170
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_M.uexp" 1171
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_N_normals.ubulk" 1172
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_N_normals.uasset" 1173
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_N_normals.uexp" 1174
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_M.ubulk" 1175
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_M.uasset" 1176
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_M.uexp" 1177
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_Diff.ubulk" 1178
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_Diff.uasset" 1179
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Keyb_Diff.uexp" 1180
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_N.ubulk" 1181
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_N.uasset" 1182
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_N.uexp" 1183
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LampEmissive.ubulk" 1184
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LampEmissive.uasset" 1185
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_LampEmissive.uexp" 1186
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_N_normals.ubulk" 1187
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_N_normals.uasset" 1188
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_N_normals.uexp" 1189
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_M.ubulk" 1190
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_M.uasset" 1191
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_M.uexp" 1192
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_Diff.ubulk" 1193
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_Diff.uasset" 1194
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CardReader_Diff.uexp" 1195
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Base_3C.uasset" 1196
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Base_3C.uexp" 1197
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Laptop_Keyb.uasset" 1198
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Laptop_Keyb.uexp" 1199
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_N_normals.ubulk" 1200
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_N_normals.uasset" 1201
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_N_normals.uexp" 1202
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_M.ubulk" 1203
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_M.uasset" 1204
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_M.uexp" 1205
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_Diff.ubulk" 1206
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_Diff.uasset" 1207
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Lapt_Scre_Diff.uexp" 1208
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Laptop_Scre.uasset" 1209
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Laptop_Scre.uexp" 1210
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Laptop.ubulk" 1211
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Laptop.uasset" 1212
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Laptop.uexp" 1213
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_03.ubulk" 1214
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_03.uasset" 1215
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/WAV/Special_Powerup_03.uexp" 1216
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_03_Cue.uasset" 1217
+"E:/Unreal Projects New/LostSpark/Content/Interface_And_Item_Sounds/Cues/Special_Powerup_03_Cue.uexp" 1218
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_N_normals.ubulk" 1219
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_N_normals.uasset" 1220
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_N_normals.uexp" 1221
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_M.ubulk" 1222
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_M.uasset" 1223
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_M.uexp" 1224
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_Diff.ubulk" 1225
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_Diff.uasset" 1226
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Trims_A_Diff.uexp" 1227
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Trims_A_M.uasset" 1228
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Trims_A_M.uexp" 1229
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_CustomerMessage.ubulk" 1230
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_CustomerMessage.uasset" 1231
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_CustomerMessage.uexp" 1232
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_CustomerMessage.uasset" 1233
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/M_CustomerMessage.uexp" 1234
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_CustomerMessage.ubulk" 1235
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_CustomerMessage.uasset" 1236
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_CustomerMessage.uexp" 1237
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_14_Wav.ubulk" 1238
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_14_Wav.uasset" 1239
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Wavs/Glitches/Glitch_14_Wav.uexp" 1240
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Cues/Glitches/Glitch_14_Cue.uasset" 1241
+"E:/Unreal Projects New/LostSpark/Content/SciFiUISFX/Cues/Glitches/Glitch_14_Cue.uexp" 1242
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_Console.uasset" 1243
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Interactables/BP_Console.uexp" 1244
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Scratches_M.uasset" 1245
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Metal_Scratches_M.uexp" 1246
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_N_normals.ubulk" 1247
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_N_normals.uasset" 1248
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_N_normals.uexp" 1249
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_M.ubulk" 1250
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_M.uasset" 1251
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_M.uexp" 1252
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_Diff.ubulk" 1253
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_Diff.uasset" 1254
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_Base_Diff.uexp" 1255
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Base_Dark.uasset" 1256
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Base_Dark.uexp" 1257
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Base_Light.uasset" 1258
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Base_Light.uexp" 1259
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_A.ubulk" 1260
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_A.uasset" 1261
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_A.uexp" 1262
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Platform_Large.uasset" 1263
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Platform_Large.uexp" 1264
+"E:/Unreal Projects New/LostSpark/Content/Images/Joystick_Movement_Button.uasset" 1265
+"E:/Unreal Projects New/LostSpark/Content/Images/Joystick_Movement_Button.uexp" 1266
+"E:/Unreal Projects New/LostSpark/Content/Images/Jump_Button.uasset" 1267
+"E:/Unreal Projects New/LostSpark/Content/Images/Jump_Button.uexp" 1268
+"E:/Unreal Projects New/LostSpark/Content/Images/Interact_Button.uasset" 1269
+"E:/Unreal Projects New/LostSpark/Content/Images/Interact_Button.uexp" 1270
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1271
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 1272
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1273
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 1274
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/AI_NavLinkProxy.uasset" 1275
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/AI_NavLinkProxy.uexp" 1276
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_N.ubulk" 1277
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_N.uasset" 1278
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_N.uexp" 1279
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base_Dirt_2.ubulk" 1280
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base_Dirt_2.uasset" 1281
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base_Dirt_2.uexp" 1282
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_EdgeMask.ubulk" 1283
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_EdgeMask.uasset" 1284
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_EdgeMask.uexp" 1285
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_C_diffuse.ubulk" 1286
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_C_diffuse.uasset" 1287
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trim_C_diffuse.uexp" 1288
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_C_normals.ubulk" 1289
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_C_normals.uasset" 1290
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_C_normals.uexp" 1291
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_M.uasset" 1292
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_M.uexp" 1293
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base.ubulk" 1294
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base.uasset" 1295
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/Base/T_Base.uexp" 1296
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_Trim.uasset" 1297
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_Trim.uexp" 1298
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_FloorBlack.uasset" 1299
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_FloorBlack.uexp" 1300
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Scratches_M.uasset" 1301
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Metal_Scratches_M.uexp" 1302
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Hexagon.ubulk" 1303
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Hexagon.uasset" 1304
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Hexagon.uexp" 1305
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_SolidColor_Base.uasset" 1306
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_SolidColor_Base.uexp" 1307
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Solid_Black.uasset" 1308
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Solid_Black.uexp" 1309
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Red.uasset" 1310
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Red.uexp" 1311
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Gray.uasset" 1312
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Gray.uexp" 1313
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.ubulk" 1314
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.uasset" 1315
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.uexp" 1316
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Start_Pad.uasset" 1317
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Start_Pad.uexp" 1318
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Yellow.uasset" 1319
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_C_Yellow.uexp" 1320
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_Elevators.uasset" 1321
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_Elevators.uexp" 1322
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.ubulk" 1323
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.uasset" 1324
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.uexp" 1325
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_ML.ubulk" 1326
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_ML.uasset" 1327
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_ML.uexp" 1328
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.ubulk" 1329
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.uasset" 1330
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.uexp" 1331
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_M.ubulk" 1332
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_M.uasset" 1333
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_M.uexp" 1334
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_3C.uasset" 1335
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_3C.uexp" 1336
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_A_Black.uasset" 1337
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_A_Black.uexp" 1338
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_A_Gray.uasset" 1339
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Trims_A_Gray.uexp" 1340
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_SolidLight.uasset" 1341
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/M_Base_SolidLight.uexp" 1342
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Light_White.uasset" 1343
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Materials/MI_Light_White.uexp" 1344
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Light_B.ubulk" 1345
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Light_B.uasset" 1346
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Comm/Meshes/SM_Light_B.uexp" 1347
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_C.ubulk" 1348
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_C.uasset" 1349
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_Floor_C.uexp" 1350
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Floor_Small.uasset" 1351
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Floor_Small.uexp" 1352
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_glow_2.uasset" 1353
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_glow_2.uexp" 1354
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_light.uasset" 1355
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_light.uexp" 1356
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_ring.uasset" 1357
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Texture/T_ring.uexp" 1358
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_light_2.uasset" 1359
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Materials/M_light_2.uexp" 1360
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Niagara/NS_Basic_13.uasset" 1361
+"E:/Unreal Projects New/LostSpark/Content/Basic_VFX/Niagara/NS_Basic_13.uexp" 1362
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Finish_Pad.uasset" 1363
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Finish_Pad.uexp" 1364
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Triggers/BP_DeathTriggerBox.uasset" 1365
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Triggers/BP_DeathTriggerBox.uexp" 1366
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Triggers/BP_HiddenTrigger.uasset" 1367
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Triggers/BP_HiddenTrigger.uexp" 1368
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Reg_Glass.uasset" 1369
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_Reg_Glass.uexp" 1370
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Reg_Glass_Dark.uasset" 1371
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Reg_Glass_Dark.uexp" 1372
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_SolidLight_Parent.uasset" 1373
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/M_SolidLight_Parent.uexp" 1374
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Light_White.uasset" 1375
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_Light_White.uexp" 1376
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_N_normals.ubulk" 1377
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_N_normals.uasset" 1378
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_N_normals.uexp" 1379
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_M.ubulk" 1380
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_M.uasset" 1381
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_M.uexp" 1382
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_Diff.ubulk" 1383
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_Diff.uasset" 1384
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Textures/T_CeilingLight_Diff.uexp" 1385
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_CeilingLight.uasset" 1386
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Materials/MI_CeilingLight.uexp" 1387
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_CeilingLight.ubulk" 1388
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_CeilingLight.uasset" 1389
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_CeilingLight.uexp" 1390
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_CeilingLight.uasset" 1391
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_CeilingLight.uexp" 1392
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_N_normals.ubulk" 1393
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_N_normals.uasset" 1394
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_N_normals.uexp" 1395
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_M.ubulk" 1396
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_M.uasset" 1397
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_M.uexp" 1398
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_EM.ubulk" 1399
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_EM.uasset" 1400
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_EM.uexp" 1401
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_Diff.ubulk" 1402
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_Diff.uasset" 1403
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Textures/T_Hall_Light_Square_Diff.uexp" 1404
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Hall_Light_Square_M.uasset" 1405
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Materials/MI_Hall_Light_Square_M.uexp" 1406
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Light_Square.ubulk" 1407
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Light_Square.uasset" 1408
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Light_Square.uexp" 1409
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_Hall_Light_Arrow.uasset" 1410
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Lights/BP_Hall_Light_Arrow.uexp" 1411
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_N_normals.ubulk" 1412
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_N_normals.uasset" 1413
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_N_normals.uexp" 1414
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M_B.ubulk" 1415
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M_B.uasset" 1416
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M_B.uexp" 1417
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff_B.ubulk" 1418
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff_B.uasset" 1419
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff_B.uexp" 1420
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Scratches_M.uasset" 1421
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Scratches_M.uexp" 1422
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Brushed_N.ubulk" 1423
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Brushed_N.uasset" 1424
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Metal_Brushed_N.uexp" 1425
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_N_normals.ubulk" 1426
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_N_normals.uasset" 1427
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_N_normals.uexp" 1428
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_M.ubulk" 1429
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_M.uasset" 1430
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_L_M.uexp" 1431
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_Diff.ubulk" 1432
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_Diff.uasset" 1433
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Hall_Door_Diff.uexp" 1434
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_DefaultLight_S.uasset" 1435
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_DefaultLight_S.uexp" 1436
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/M_Base_2C.uasset" 1437
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/M_Base_2C.uexp" 1438
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Trims_B_2.uasset" 1439
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Trims_B_2.uexp" 1440
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_N_normals.ubulk" 1441
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_N_normals.uasset" 1442
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_N_normals.uexp" 1443
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_M.ubulk" 1444
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_M.uasset" 1445
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_M.uexp" 1446
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_Diff.ubulk" 1447
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_Diff.uasset" 1448
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Pipes_A_Diff.uexp" 1449
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Pipes_A.uasset" 1450
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Pipes_A.uexp" 1451
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Div_B.ubulk" 1452
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Div_B.uasset" 1453
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Div_B.uexp" 1454
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 1455
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 1456
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_ForceField.uasset" 1457
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_ForceField.uexp" 1458
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_ForceField_Inst.uasset" 1459
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_ForceField_Inst.uexp" 1460
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_ElectricZaps.uasset" 1461
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_ElectricZaps.uexp" 1462
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_ElectricZaps_Inst.uasset" 1463
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/MI_ElectricZaps_Inst.uexp" 1464
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_LightningBeam.uasset" 1465
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_LightningBeam.uexp" 1466
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Electrified.uasset" 1467
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_Electrified.uexp" 1468
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/electric-90746.ubulk" 1469
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/electric-90746.uasset" 1470
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/electric-90746.uexp" 1471
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/SC_ElectricForcefield.uasset" 1472
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Enemy_AI/Navigation/SC_ElectricForcefield.uexp" 1473
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/DamagingActors/BP_ForceField.uasset" 1474
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/DamagingActors/BP_ForceField.uexp" 1475
+"E:/Unreal Projects New/LostSpark/Content/Maps/LVL3.uexp" 1476
+"E:/Unreal Projects New/LostSpark/Content/Maps/LVL3.umap" 1477
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_EnemyMat_Inst.uasset" 1478
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Materials/M_EnemyMat_Inst.uexp" 1479
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_DeathFloor.uasset" 1480
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/VFX/NS_DeathFloor.uexp" 1481
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/DamagingActors/BP_DamageFloor.uasset" 1482
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/DamagingActors/BP_DamageFloor.uexp" 1483
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M.ubulk" 1484
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M.uasset" 1485
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_M.uexp" 1486
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff.ubulk" 1487
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff.uasset" 1488
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Trims_B_Diff.uexp" 1489
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Trims_B.uasset" 1490
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Trims_B.uexp" 1491
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Pipes_A_Dark.uasset" 1492
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Pipes_A_Dark.uexp" 1493
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_N_normals.ubulk" 1494
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_N_normals.uasset" 1495
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_N_normals.uexp" 1496
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_M.ubulk" 1497
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_M.uasset" 1498
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_M.uexp" 1499
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_Diff.ubulk" 1500
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_Diff.uasset" 1501
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A_Diff.uexp" 1502
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Win_Post_A.uasset" 1503
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Win_Post_A.uexp" 1504
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_N_normals.ubulk" 1505
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_N_normals.uasset" 1506
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_N_normals.uexp" 1507
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_M.ubulk" 1508
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_M.uasset" 1509
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_M.uexp" 1510
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_Diff.ubulk" 1511
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_Diff.uasset" 1512
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Textures/T_Win_Post_A2_Diff.uexp" 1513
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Win_Post_A2.uasset" 1514
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Materials/MI_Win_Post_A2.uexp" 1515
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A.ubulk" 1516
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A.uasset" 1517
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A.uexp" 1518
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A_2.ubulk" 1519
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A_2.uasset" 1520
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A_2.uexp" 1521
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_AltFloor_A.ubulk" 1522
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_AltFloor_A.uasset" 1523
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularScifiProps/Meshes/SM_AltFloor_A.uexp" 1524
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Wall_Jumper.uasset" 1525
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/Meshes/BP_Wall_Jumper.uexp" 1526
+"E:/Unreal Projects New/LostSpark/Content/Maps/LVL2.uexp" 1527
+"E:/Unreal Projects New/LostSpark/Content/Maps/LVL2.umap" 1528
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_2.ubulk" 1529
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_2.uasset" 1530
+"E:/Unreal Projects New/LostSpark/Content/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_2.uexp" 1531
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_TutorialText.uasset" 1532
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/WB_TutorialText.uexp" 1533
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/BP_TutorialTexts.uasset" 1534
+"E:/Unreal Projects New/LostSpark/Content/Blueprints/UMG/BP_TutorialTexts.uexp" 1535
+"E:/Unreal Projects New/LostSpark/Content/Maps/LVL1_Tutorial.uexp" 1536
+"E:/Unreal Projects New/LostSpark/Content/Maps/LVL1_Tutorial.umap" 1537
