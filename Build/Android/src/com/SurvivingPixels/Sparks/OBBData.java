@@ -1,4 +1,4 @@
-package com.SurvivingPixels.LostSpark;
+package com.SurvivingPixels.Sparks;
 
 public class OBBData
 {
@@ -19,7 +19,7 @@ public static final XAPKFile[] xAPKS = {
 new XAPKFile(
 true, // true signifies a main file
 "1", // the version of the APK that the file was uploaded against
-159071104L // the length of the file in bytes
+160046260L // the length of the file in bytes
 )
 };
 };

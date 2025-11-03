@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.SurvivingPixels.LostSpark.OBBDownloaderService;
-import com.SurvivingPixels.LostSpark.DownloaderActivity;
+import com.SurvivingPixels.Sparks.OBBDownloaderService;
+import com.SurvivingPixels.Sparks.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.SurvivingPixels.LostSpark.OBBData;
+import com.SurvivingPixels.Sparks.OBBData;
 
 
 public class DownloadShim

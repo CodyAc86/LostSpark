@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.SurvivingPixels.LostSpark;
+package com.SurvivingPixels.Sparks;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 
